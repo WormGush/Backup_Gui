@@ -1,11 +1,3 @@
-# ~~~~Tips~~~#
-# don't be an idiot
-#
-# check if you mean 0 or "0"
-#
-# access denied fixed by not ending destination in a \
-# e.g G:\test would work NOT G:\test\
-
 # ~~~~~Plans~~~~~~#
 # event handling for cancel on name change
 # change font size of title (label 1)
